@@ -1,0 +1,11 @@
+{
+  "name" : "5e DMG",
+  "renderer" : "V3",
+  "baseTheme" : "5ePHB",
+  "baseSnippets" : "5ePHB"
+  "licenseType"    : "OGL 1.0a",
+  "description"    : "This is our version of the 5e DMG Styles.",
+  "commonTags"     : ["OGL", "5e", "DMG"],
+  "homeRepository" : "git@github.com:dbolack-ab/hbtheme-5eDMG.git",
+  "credits"        : ["A", "list","of", "people"]
+}
