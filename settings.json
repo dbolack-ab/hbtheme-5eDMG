@@ -1,6 +1,6 @@
 {
   "name" : "5e DMG",
-  "renderer" : "V3",
+  "renderer" : "V4",
   "baseTheme" : "5ePHB",
   "baseSnippets" : "5ePHB",
   "licenseType"    : "OGL 1.0a",
